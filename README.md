@@ -1,1 +1,1 @@
-# Spectral-Spatial-Hybrid-Hyperspectral-Unmixing-
+# Spectral-Spatial-Hybrid-Hyperspectral-Unmixing
